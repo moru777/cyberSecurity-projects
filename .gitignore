@@ -1,2 +1,6 @@
+HEAD
 venv/
 node_modules/
+/node_modules/
+.env
+ 571c6a3ca74eb56cbdac559cfb80ae2e7132f21e
